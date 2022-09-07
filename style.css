@@ -1,0 +1,151 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.top{
+    width: 100vw;
+    height: 15vh;
+    position: relative;
+}
+.logo{
+    width:10% ;
+    height: 80%;
+    margin-left:20px ;
+}
+.nav{
+    position: absolute;
+    width: fit-content;
+    top: 40%;
+    transform: translateY(-50%);
+    right: 0%;
+}
+.navb{
+    width: 100px;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    color:#f45c04 ;
+    font-size: 20px;
+    
+}
+.navb:hover{
+    background-color: #fc7373;
+    color: black;
+}
+.mid1{
+    position: relative;
+   width: 100vw;
+   height: 80vh;
+   background-color: red;
+}
+.car1{
+    margin-top: 100px;
+    width:40%;
+    height: fit-content;
+}
+.offer{
+    position: absolute;
+    top: 40px;
+    left: 500px;
+
+    height: 200px;
+    width: 150px;
+}
+.content{
+    width: 30%;
+    height: 100px;
+    position: absolute;
+    top:25%;
+    left: 50%;
+}
+.chead{
+    font-size: 40px;
+}
+.chead1{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.info{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.btn{
+    color: white;
+    margin-top: 10px;
+    background-color: black;
+    padding: 2px;
+}
+.mid-2{
+  height: 100vh;
+  position: relative;
+}
+.car2{
+    position: absolute;
+    width:25%;
+    height:60%;
+    top: 20%;
+    left:5%
+}
+.mid-2-content{
+    width: 40%;
+    position: absolute;
+    left: 33%;
+    top: 10%;
+    
+
+}
+.infoc{
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+#hh1{
+    font-size: 40px;
+}
+#hh2{
+    font-size: 30px;
+}
+.car3{
+
+    position: absolute;
+    top: 10%;
+    right: 0%;
+    height: 100%;
+    width: 28%;
+}
+.services{
+    position: relative;
+    height: 100vh;
+    background: #fc7373;
+    text-align: center;
+    
+}
+.shead{
+    position: absolute;
+    
+}
+#sh1{
+    margin-top: 10%;
+    left: 44.5%;
+}
+#sh2{
+    margin-top: 13%;
+    left: 44%;
+}
+.serv1{
+    margin-top:300px ;
+    padding: 0px 15px;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    
+
+}
+.servim{
+    width: 300px;
+    height: 200px;
+}
+.servh{
+    text-align: center;
+}
+
