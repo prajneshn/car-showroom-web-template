@@ -35,7 +35,7 @@
 .mid1{
     position: relative;
    width: 100vw;
-   height: 80vh;
+   height: 85vh;
    background-color: red;
 }
 .car1{
@@ -76,8 +76,10 @@
     padding: 2px;
 }
 .mid-2{
+    width: 100vw;
   height: 100vh;
   position: relative;
+ 
 }
 .car2{
     position: absolute;
@@ -114,9 +116,10 @@
     width: 28%;
 }
 .services{
+    width: 100vw;
     position: relative;
     height: 100vh;
-    background: #fc7373;
+    background: #f4efef;
     text-align: center;
     
 }
@@ -146,6 +149,9 @@
     height: 200px;
 }
 .servh{
+   
     text-align: center;
 }
-
+h5{
+    padding: 10px;
+}
